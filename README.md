@@ -3,6 +3,8 @@
 Eigenständige RedM-Resource für die distanzbasierte Verwaltung von NPCs. NPCs werden automatisch gespawnt, wenn der Spieler sich nähert, und wieder entfernt, wenn er sich entfernt – für bessere Performance und weniger unnötige Entities. Darüber hinaus könnt ihr Ped Szenarien/Animationen setzen, wodurch eure Peds lebendiger in der Welt wirken statt stumpfe Statisten in der Welt. 
 Man kann in jeder Resource wo Peds eigenständig generiert werden den Export nutzen und so Performance sparen. 
 
+Bei Fragen und Hilfestellung besucht den Ludwig_Development Discord: https://discord.gg/c84TPjXHDn
+
 ## Abhängigkeiten
 
 - **ox_lib** – (Distanz-Checks)
